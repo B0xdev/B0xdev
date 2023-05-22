@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @B0xdev
+- 👀 I’m interested in becoming a python, javascript, and/or html
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on nothing i just self-learn
+- my OS is Windows 11 but switching to linux soon
